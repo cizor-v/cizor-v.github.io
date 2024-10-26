@@ -30,7 +30,7 @@ linkedin_username:  Oscar Cizeron
 show_excerpts: true
 
 header_pages:
-  - test.markdown
+  - portfolio.markdown
   - about.markdown
 
 # Build settings
