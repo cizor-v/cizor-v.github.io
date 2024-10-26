@@ -21,7 +21,6 @@
 title: Oscar Cizeron
 email: oscar.cizeron06@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Oscar Cizeron, a Computer Science Engineering student.
   This is my personal website to host my portfolio on.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
