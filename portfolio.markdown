@@ -28,8 +28,7 @@ permalink: /portfolio/
 <tr>
 <td style="text-align: center;"><a href="https://github.com/LeClaptain/Math_physic_JV">Physics Engine</a></td>
 <td style="text-align: center;"> We made this basic physics engine for a class on maths and physics for video games. It includes basic movement, rotation, collision detection and resolution, and space partitioning with an octree.</td>
-</tr>
-            
+</tr>   
 <tr>
 <td style="text-align: center;"><a href="https://devops.telecomste.fr/mechkour.ghali/projet-open-cv">OpenCV Project</a></td>
 <td style="text-align: center;">A university project to learn how to use OpenCV and OpenGL. It features a basic pokémon-like game, where the creatures fighting are detected by showing cards to the webcam using image recognition.</td>
