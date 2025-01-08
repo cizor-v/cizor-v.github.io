@@ -14,7 +14,7 @@ permalink: /portfolio/
 <td style="text-align: center;">A University project where we made a game over the course of a trimester in a team of three. This is a puzzle game where the player can rotate different kinds of elements, such as platforms, lasers, mirrors, or even gravity itself, in order to complete the levels. </td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://tea-enjoyers.itch.io/doomension">Doomention</a></td>
+<td style="text-align: center;"><a href="https://tea-enjoyers.itch.io/doomension">Doomension</a></td>
 <td style="text-align: center;"> Our entry for the UQAC WonderJam in the Fall of 2024. It is a survival platform game for two players. Ghosts appear from dark areas so each player tries to illuminate their part of the screen and avoid the ghosts.</td>
 </tr>
 <tr>
@@ -25,6 +25,11 @@ permalink: /portfolio/
 <td style="text-align: center;"><a href="https://github.com/tlegoc/UQAC_Pacman">PacMan Exercise</a></td>
 <td style="text-align: center;"> An introductory exercise for a university course in game design. We had to recreate PacMan in a game engine of our choice in order to familiarize ourselves with using those tools.</td>
 </tr>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/LeClaptain/Math_physic_JV">Physics Engine</a></td>
+<td style="text-align: center;"> We made this basic physics engine for a class on maths and physics for video games. It includes basic movement, rotation, collision detection and resolution, and space partitioning with an octree.</td>
+</tr>
+            
 <tr>
 <td style="text-align: center;"><a href="https://devops.telecomste.fr/mechkour.ghali/projet-open-cv">OpenCV Project</a></td>
 <td style="text-align: center;">A university project to learn how to use OpenCV and OpenGL. It features a basic pokémon-like game, where the creatures fighting are detected by showing cards to the webcam using image recognition.</td>
