@@ -18,7 +18,7 @@ permalink: /portfolio/
 <td style="text-align: center;"> Our entry for the UQAC WonderJam in the Fall of 2024. It is a survival platform game for two players. Ghosts appear from dark areas so each player tries to illuminate their part of the screen and avoid the ghosts.</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://github.com/LeClaptain/tankiete-pas">Tankiète pas</a></td>
+<td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1T6bD4fFzUho86y-KnzxrIhwLL7hJSkMH">Tankiète pas</a></td>
 <td style="text-align: center;">A work in progress personal project with my friend <a href="https://github.com/LeClaptain">Ghali Mechkour</a>. The game is similar to Wii Tanks, with the player trying to destroy all enemy tanks on screen. Before starting a level, the player can choose a few power-ups.</td>
 </tr>
 <tr>
